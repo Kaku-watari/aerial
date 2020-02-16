@@ -10,28 +10,28 @@ module.exports = {
   pathPrefix: `/gatsby-starter-aerial/`, // This path is subpath of your hosting https://domain/portfolio
   // social
 
-  authorName: 'Anubhav Srivastava',
-  authorHeading: 'Web Developer - JAMStack - Open Source enthusiast',
+  authorName: 'Sample page',
+  authorHeading: 'We are Web Developers',
   authorSocialLinks: [
     {
       icon: 'fa-github',
       name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
+      url: 'https://aerial-sample.netlify.com/',
     },
     {
       icon: 'fa-twitter',
       name: 'Twitter',
-      url: 'https://twitter.com/onlyanubhav',
+      url: 'https://aerial-sample.netlify.com/',
     },
     {
       icon: 'fa-facebook',
       name: 'Facebook',
-      url: 'https://facebook.com/theanubhav',
+      url: 'https://aerial-sample.netlify.com/',
     },
     {
       icon: 'fa-envelope-o',
       name: 'Email',
-      url: 'mailto:anubhav.srivastava00@gmail.com',
+      url: 'mailto:info@bhb-harry.co.jp',
     },
   ],
 };
