@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Aerial', // <title>
+  siteTitle: 'Aerial sample page', // <title>
   manifestName: 'Aerial',
   manifestShortName: 'Portfolio', // max 12 characters
   manifestStartUrl: '/',

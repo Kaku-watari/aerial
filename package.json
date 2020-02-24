@@ -1,14 +1,14 @@
 {
-  "name": "gatsby-starter-hyperspace",
+  "name": "aerial",
   "version": "0.0.1",
   "description": "Gatsby.js V2 starter template based on Hyperspace by HTML5 UP",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-hyperspace.git"
+    "url": "git+https://bhb-harry.netlify.com"
   },
   "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
+    "name": "HARRY Co.,Ltd.",
+    "email": "info@bhb-harry.co.jp"
   },
   "dependencies": {
     "gatsby": "^2.13.3",
@@ -36,13 +36,13 @@
     "rimraf": "^2.6.3"
   },
   "keywords": [
-    "gatsby",
-    "gatsby-starter",
-    "gatsby-starter-aerial"
+    "home",
+    "home page",
+    "website"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-aerial/issues"
+    "url": "https://bhb-harry.netlify.com"
   },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-aerial#readme"
+  "homepage": "https://bhb-harry.netlify.com"
 }
