@@ -11,7 +11,7 @@ module.exports = {
   // social
 
   authorName: 'Sample page',
-  authorHeading: 'We are Web Developers',
+  authorHeading: 'I am a Web Developer',
   authorSocialLinks: [
     {
       icon: 'fa-github',
@@ -31,7 +31,7 @@ module.exports = {
     {
       icon: 'fa-envelope-o',
       name: 'Email',
-      url: 'mailto:info@bhb-harry.co.jp',
+      url: 'mailto:0825kaku@gmail.com',
     },
   ],
 };
